@@ -1,0 +1,17 @@
+# venv
+.venv/
+
+# data (NDA)
+data/
+
+# artifacts (можно коммитить, но обычно нет)
+artifacts/
+
+# notebooks
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
